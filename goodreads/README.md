@@ -1,6 +1,6 @@
 # Dataset Analysis
 
-**Unveiling the World of Happiness: Analyzing the Happiness Dataset**
+**Unveiling the World of Goodreads: Analyzing the Goodreads Dataset**
 
 In the fast-paced world of entertainment, every title, every review, and every viewer's opinion matters. Our journey begins with a comprehensive exploration of a captivating dataset, aptly named `media.csv`, which holds the key to understanding the intricate tapestry of media consumption. This dataset comprises 2,652 entries, each shedding light on various aspects of media, encapsulated in 8 distinct columns. From the dates of release to the languages spoken and the ratings given, this dataset serves as a window into the preferences and perceptions of audiences around the globe.
 
@@ -34,6 +34,6 @@ The implications of this analysis extend far beyond mere numbers. They reflect a
 
 In conclusion, the `media.csv` dataset offers a treasure trove of insights that, while revealing the current state of media enjoyment, also challenges stakeholders to think critically about audience engagement. It’s a call to innovate, to deepen connections, and to create media that not only entertains but resonates deeply with viewers. As we continue to peel back the layers of data, the story of our media consumption unfolds—filled with opportunities and potential waiting to be realized.
 
-![happiness_correlation_heatmap.png](happiness_correlation_heatmap.png)
-![media_distribution.png](happiness_distribution.png)
-![happiness_categories.png](happiness_categories.png)
+![goodreads_correlation_heatmap.png](goodreads_correlation_heatmap.png)
+![goodreads_distribution.png](goodreads_distribution.png)
+![goodreads_categories.png](goodreads_categories.png)
